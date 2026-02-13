@@ -56,5 +56,6 @@ public class Character {
     }
 }
 
+
 <h3>UML Class Diagram:</h3>
-<img width="3647" height="1997" alt="GA_UML" src="https://github.com/user-attachments/assets/1c791604-a7af-4738-a23a-75c62bf0b59c" />
+<img width="3711" height="2173" alt="GA_UML" src="https://github.com/user-attachments/assets/2e47a5ac-12df-4eab-abff-0e7d2a5f7956" />
